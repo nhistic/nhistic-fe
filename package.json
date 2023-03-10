@@ -2,10 +2,10 @@
   "name": "nhistic-fe",
   "version": "1.0.0",
   "private": true,
-  "description": "nhistic-fe",
-  "author": "90156556",
+  "description": "welcome to the new World, walking in the other side.",
+  "author": "@humanhistic",
   "keywords": [
-    "gatsby"
+    "nhistic World"
   ],
   "scripts": {
     "develop": "gatsby develop",
@@ -15,14 +15,30 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.3.0",
     "gatsby": "^5.6.0",
+    "gatsby-plugin-catch-links": "^5.7.0",
+    "gatsby-plugin-google-analytics": "^5.7.0",
     "gatsby-plugin-image": "^3.6.0",
     "gatsby-plugin-manifest": "^5.6.0",
+    "gatsby-plugin-offline": "^6.7.0",
+    "gatsby-plugin-page-transitions": "^1.0.8",
+    "gatsby-plugin-react-helmet": "^6.7.0",
+    "gatsby-plugin-sass": "^6.7.0",
     "gatsby-plugin-sharp": "^5.6.0",
     "gatsby-plugin-sitemap": "^6.6.0",
+    "gatsby-remark-social-cards": "^0.4.1",
     "gatsby-source-filesystem": "^5.6.0",
+    "gatsby-source-strapi": "^3.0.4",
+    "gatsby-transformer-remark": "^6.7.0",
     "gatsby-transformer-sharp": "^5.6.0",
+    "mdb-react-ui-kit": "^5.1.0",
+    "node-sass": "^8.0.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-helmet": "^6.1.0",
+    "react-markdown": "^8.0.5",
+    "react-scroll-up": "^1.4.0",
+    "sass": "^1.58.3"
   }
 }

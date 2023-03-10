@@ -1,0 +1,43 @@
+//content
+.container#content {
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+//body
+body {
+    background-color: $light-gray;
+    font-family: $site-font;
+}
+
+//main
+a.pr:link, a.pr:visited {
+    color: #ab47bc;
+} 
+a.pr:hover, a.pr:active {
+    color: grey;
+}
+
+//dark
+a.dr:link, a.dr:visited {
+    color: #252121;
+} 
+a.dr:hover, a.dr:active {
+    color: grey;
+}
+
+//white
+a.wh:link, a.wh:visited {
+    color: white;
+}
+a.wh:hover, a.wh:active {
+    color: yellow;
+}
+
+//yellow
+a.yl:link, a.yl:visited {
+    color: yellow;
+} 
+a.yl:hover, a.yl:active {
+    color: white;
+}
